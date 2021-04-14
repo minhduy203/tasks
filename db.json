@@ -1,0 +1,19 @@
+{
+  "tasks" : [
+    {
+        "id": 1,
+        "name": "Học Nextjs",
+        "status": true
+    },
+    {
+        "id": 2,
+        "name": "Học Reactjs",
+        "status": false
+    },
+    {
+        "id": 3,
+        "name": "Học Redux",
+        "status": true
+    }
+  ]
+}
